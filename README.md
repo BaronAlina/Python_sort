@@ -1,6 +1,6 @@
 # Python_sort
-all
-sort
-sort buble
-sort gnom
-sort input
+1. all
+2. sort
+3. sort buble
+4. sort gnom
+5. sort input
